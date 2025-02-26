@@ -11,9 +11,9 @@ export default function Home() {
       style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
     >
       {/* Carousel Section */}
-      <div style={{ flex: 1 }}>
-        <CarouselPlugin />
-      </div>
+      // <div style={{ flex: 1 }}>
+      //   <CarouselPlugin />
+      // </div>
 
       {/* Parallax Section
       <Parallax
