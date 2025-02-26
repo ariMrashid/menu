@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Cheeseburger",
+    "price": 8.99,
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pepperoni Pizza",
+    "price": 12.99,
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Caesar Salad",
+    "price": 6.99,
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Spaghetti Bolognese",
+    "price": 10.99,
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sushi Platter",
+    "price": 15.99,
+    "image": "/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Chicken Tacos",
+    "price": 7.99,
+    "image": "/images/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Chocolate Cake",
+    "price": 5.99,
+    "image": "/images/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Vegetable Stir Fry",
+    "price": 9.99,
+    "image": "/images/8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Grilled Salmon",
+    "price": 14.99,
+    "image": "/images/9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "French Fries",
+    "price": 3.99,
+    "image": "/images/10.jpg"
+  }
+]
