@@ -10,10 +10,6 @@ export default function Home() {
       className="bg-gray-100"
       style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
     >
-      {/* Carousel Section */}
-      // <div style={{ flex: 1 }}>
-      //   <CarouselPlugin />
-      // </div>
 
       {/* Parallax Section
       <Parallax
