@@ -7,7 +7,7 @@ import { Parallax } from "react-parallax";
 export default function Home() {
   return (
     <div
-      className="bg-gray-600"
+      className="bg-gray-100"
       style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
     >
       {/* Carousel Section */}
