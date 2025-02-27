@@ -16,17 +16,19 @@ export default function Footer() {
             </div>
             <div className="footer-section">
               <h5 className="font-bold text-lg mb-2">Contact Us</h5>
-              <p>Email: info@hiror.com</p>
-              <p>Phone: +9647500171717</p>
+              <p>Email: ary.hq.hd@gmail.com</p>
+              <p>Phone: +96475114342667</p>
             </div>
             <div className="footer-section">
               <h5 className="font-bold text-lg mb-2">Address</h5>
-              <p>Zin City Road, Pirmam St. Erbil, Kurdistan - Iraq.</p>
+              <p>Sualimanyah - Hawary shar St.
+
+Data, Kurdistan-Iraq..</p>
             </div>
           </div>
         </div>
         <div className="footer-copyright text-center border-t border-gray-700 pt-4">
-          <p>© 2023 Hiror. All Rights Reserved.</p>
+          <p>© 2025 balaxoshakay faxir hariri. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
